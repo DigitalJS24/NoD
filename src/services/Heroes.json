@@ -1,0 +1,282 @@
+{
+    "gather" : {
+		"Stiller" :
+	      {
+			"id"   : "h1",
+			"skill": "gather",
+			"res"  : "food",
+			"type" : "load/speed",
+			"bonus"  : "20/15"
+	      },
+		"Natalia" :
+	      {
+			"id"   : "h2",
+			"skill": "gather",
+			"res"  : "food",
+			"type" : "load",
+			"bonus"  : "15"
+	      },
+		"Margarita" :
+	      {
+			"id"   : "h3",
+			"skill": "gather",
+			"res"  : "food",
+			"type" : "speed",
+			"bonus"  : "10"
+	      },
+		"Steve" :
+	      {
+			"id"   : "h4",
+			"skill": "gather",
+			"res"  : "water",
+			"type" : "load/speed",
+			"bonus"  : "20/15"
+	      },
+		"Victor" :
+	      {
+			"id"   : "h5",
+			"skill": "gather",
+			"res"  : "water",
+			"type" : "load",
+			"bonus"  : "15"
+	      },
+		"Orson" :
+	      {
+			"id"   : "h6",
+			"skill": "gather",
+			"res"  : "water",
+			"type" : "speed",
+			"bonus"  : "10"
+	      },
+		"Ayesha" :
+	      {
+			"id"   : "h7",
+			"skill": "gather",
+			"res"  : "crystall",
+			"type" : "load/speed",
+			"bonus"  : "20/15"
+	      },
+		"Marcus" :
+	      {
+			"id"   : "h8",
+			"skill": "gather",
+			"res"  : "crystall",
+			"type" : "load",
+			"bonus"  : "15"
+	      },
+		"Meryl" :
+	      {
+			"id"   : "h9",
+			"skill": "gather",
+			"res"  : "crystall",
+			"type" : "speed",
+			"bonus"  : "10"
+	      },
+		"Karol" :
+	      {
+			"id"   : "h10",
+			"skill": "gather",
+			"res"  : "wood",
+			"type" : "load/speed",
+			"bonus"  : "20/15"
+	      },
+		"Manning" :
+	      {
+			"id"   : "h11",
+			"skill": "gather",
+			"res"  : "wood",
+			"type" : "load",
+			"bonus"  : "15"
+	      },
+		"Kezlov" :
+	      {
+			"id"   : "h12",
+			"skill": "gather",
+			"res"  : "wood",
+			"type" : "speed",
+			"bonus"  : "10"
+	      },
+		"Jaina" :
+	      {
+			"id"   : "h13",
+			"skill": "gather",
+			"res"  : "all",
+			"type" : "load/amount",
+			"bonus"  : "30/20"
+	      }
+	     },
+
+    "output" :{
+		"Beth" :
+	      {
+			"id"   : "h14",
+			"skill": "output",
+			"res"  : "food",
+			"type" : "output",
+			"bonus"  : "5000"
+	      },
+		"Holly" :
+	      {
+			"id"   : "h15",
+			"skill": "output",
+			"res"  : "food",
+			"type" : "output",
+			"bonus"  : "5000"
+	      },
+		"Nathan" :
+	      {
+			"id"   : "h16",
+			"skill": "output",
+			"res"  : "food",
+			"type" : "output",
+			"bonus"  : "5000"
+	      },
+		"Morozov" :
+	      {
+			"id"   : "h17",
+			"skill": "output",
+			"res"  : "food",
+			"type" : "output",
+			"bonus"  : "5000"
+	      },
+		  "Peter" :
+	      {
+			"id"   : "h18",
+			"skill": "output",
+			"res"  : "water",
+			"type" : "output",
+			"bonus"  : "5000"
+	      },
+		  "Maggie" :
+	      {
+			"id"   : "h19",
+			"skill": "output",
+			"res"  : "wood",
+			"type" : "output",
+			"bonus"  : "5000"
+	      },
+		  "Chester" :
+	      {
+			"id"   : "h20",
+			"skill": "output",
+			"res"  : "water",
+			"type" : "output",
+			"bonus"  : "5000"
+	      },
+		  "Sakharov" :
+	      {
+			"id"   : "h21",
+			"skill": "output",
+			"res"  : "money",
+			"type" : "output",
+			"bonus"  : "2000"
+	      },
+		  "Kuznetsov" :
+	      {
+			"id"   : "h22",
+			"skill": "output",
+			"res"  : "crystall",
+			"type" : "output",
+			"bonus"  : "3700"
+	      },
+		  "Reynolds" :
+	      {
+			"id"   : "h23",
+			"skill": "output",
+			"res"  : "mana",
+			"type" : "output",
+			"bonus"  : "3000"
+	      },
+		  "Pushkin" :
+	      {
+			"id"   : "h24",
+			"skill": "output",
+			"res"  : "wood",
+			"type" : "output",
+			"bonus"  : "2500"
+	      },
+		  "Gary" :
+	      {
+			"id"   : "h25",
+			"skill": "output",
+			"res"  : "crystall",
+			"type" : "output",
+			"bonus"  : "3700"
+	      },
+		  "Rowan" :
+	      {
+			"id"   : "h26",
+			"skill": "output",
+			"res"  : "water",
+			"type" : "output",
+			"bonus"  : "5000"
+	      },
+		  "Dorina" :
+	      {
+			"id"   : "h27",
+			"skill": "output",
+			"res"  : "water",
+			"type" : "output",
+			"bonus"  : "5000"
+	      },
+		  "Sully" :
+	      {
+			"id"   : "h28",
+			"skill": "output",
+			"res"  : "mana",
+			"type" : "output",
+			"bonus"  : "3000"
+	      },
+		  "Clark" :
+	      {
+			"id"   : "h29",
+			"skill": "output",
+			"res"  : "wood",
+			"type" : "output",
+			"bonus"  : "2500"
+	      },
+		  "Francisco" :
+	      {
+			"id"   : "h30",
+			"skill": "output",
+			"res"  : "crystall",
+			"type" : "output",
+			"bonus"  : "3700"
+	      },
+		  "Jess" :
+	      {
+			"id"   : "h31",
+			"skill": "output",
+			"res"  : "wood",
+			"type" : "output",
+			"bonus"  : "2500"
+	      },
+		  "Bayer" :
+	      {
+			"id"   : "h32",
+			"skill": "output",
+			"res"  : "money",
+			"type" : "output",
+			"bonus"  : "2000"
+	      }
+		  
+	      },
+    "training" :{
+		"Morv" :
+	      {
+			"id"   : "h18",
+			"skill": "output",
+			"res"  : "food",
+			"type" : "output",
+			"bonus"  : "5000"
+	      }
+		},
+    "healing" :{
+			"id"   : "h19",
+			"skill": "output",
+			"res"  : "food",
+			"type" : "output",
+			"bonus"  : "5000"
+	      }
+    
+}

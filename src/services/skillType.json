@@ -1,0 +1,5 @@
+{
+    "skill" : ["all","gather","output","training","healing"],
+    "res"   : ["all","food","water","crystal","wood","mana","money"],
+    "type"  : ["all","speed","load","cost","capacity"]
+}

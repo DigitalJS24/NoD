@@ -1,0 +1,25 @@
+{
+    "all"    :{
+			"res": ["none"],
+			"type": ["none"]
+	      },
+    "gather" :{
+		
+        	"res" : ["all","food","water","crystal","wood"],
+	        "type": ["all","speed","load"]
+	      },
+    "output" :{
+		
+		"res": ["all","food","water","crystal","wood","mana","money"],
+		"type": ["none"]
+	      },
+    "training" :{
+		"res": ["none"],
+		"type": ["all","speed","cost","capacity"]
+	      },
+    "healing" :{
+		"res": ["none"],
+		"type": ["all","speed","cost","capacity"]
+	      }
+  
+}

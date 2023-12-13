@@ -1,0 +1,6 @@
+{
+ {"skill": "gather", "type":"food"},
+ {"skill": "gather", "type":"water"},
+ {"skill": "gather", "type":"crystal"},
+ {"skill": "gather", "type":"wood"}
+}
